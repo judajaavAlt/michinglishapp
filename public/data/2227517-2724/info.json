@@ -29,9 +29,9 @@
       "topic": "vocabulary",
       "questions": [
         {
-          "question": "What is the synonym of 'angry'?",
-          "options": ["mad", "happy", "calm", "excited"],
-          "answer": "mad"
+          "question": "How do you say 'alfombra' in English?",
+          "options": ["rug", "carpet", "rugged", "carpenter"],
+          "answer": "carpet"
         },
         {
           "question": "What is the antonym of 'difficult'?",
@@ -47,3 +47,5 @@
     }
   ]
 }
+
+
