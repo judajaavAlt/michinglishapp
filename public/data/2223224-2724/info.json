@@ -1,0 +1,61 @@
+{
+    "user": {
+      "username": "Jose-Castellanos",
+      "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocJ8sSa5UELQATcgerMLRnNxp-nmwIsdNidQgSdVa0TsIgFMIPQ=s288-c-no",
+      "socialLink": "@jmcsalas"
+    },
+    "topics": [
+      {
+        "topic": "grammar",
+        "questions": [
+          {
+            "question": "Which of the following sentences is in the passive voice?",
+            "options": [
+              "The chef cooked the meal.",
+              "The meal was cooked by the chef.",
+              "The chef is cooking the meal.",
+              "The meal will cook soon."
+            ],
+            "answer": "The meal was cooked by the chef."
+          },
+          {
+            "question": "Which sentence correctly uses a conditional structure?",
+            "options": [
+              "If I had known, I would have helped you.",
+              "If I know, I would have helped you.",
+              "If I had know, I would helped you.",
+              "If I have known, I would help you."
+            ],
+            "answer": "If I had known, I would have helped you."
+          }
+        ]
+      },
+      {
+        "topic": "vocabulary",
+        "questions": [
+          {
+            "question": "What is the meaning of the word 'benevolent'?",
+            "options": [
+              "wicked",
+              "kind and charitable",
+              "indifferent",
+              "suspicious"
+            ],
+            "answer": "kind and charitable"
+          },
+          {
+            "question": "Which of the following is a synonym for 'obsolete'?",
+            "options": [
+              "modern",
+              "current",
+              "outdated",
+              "advanced"
+            ],
+            "answer": "outdated"
+          }
+        ]
+      }
+      
+    ]
+  }
+  
