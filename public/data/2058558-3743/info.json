@@ -9,19 +9,19 @@
       "topic": "grammar",
       "questions": [
         {
-          "question": "Which sentence is in the future tense?",
+          "question": "Which sentence is in the present continuous tense?",
           "options": [
-            "I am eating lunch.",
-            "I will eat lunch tomorrow.",
-            "I ate lunch yesterday.",
-            "I have eaten lunch."
+            "She is reading a book.",
+            "She reads books every day.",
+            "She read a book yesterday.",
+            "She has read many books."
           ],
-          "answer": "I will eat lunch tomorrow."
+          "answer": "She is reading a book."
         },
         {
-          "question": "Choose the correct form of the verb: 'They ___ to the concert last night.'",
-          "options": ["go", "went", "gone", "going"],
-          "answer": "went"
+          "question": "Choose the correct form of the verb: 'He ___ to the store every Saturday.'",
+          "options": ["goes", "going", "went", "gone"],
+          "answer": "goes"
         }
       ]
     },
@@ -29,14 +29,14 @@
       "topic": "vocabulary",
       "questions": [
         {
-          "question": "What is the synonym of 'happy'?",
-          "options": ["sad", "joyful", "angry", "tired"],
-          "answer": "joyful"
+          "question": "What is the antonym of 'difficult'?",
+          "options": ["easy", "hard", "complex", "challenging"],
+          "answer": "easy"
         },
         {
-          "question": "Translate 'apple' into Spanish.",
-          "options": ["banana", "manzana", "naranja", "uva"],
-          "answer": "manzana"
+          "question": "Translate 'book' into Spanish.",
+          "options": ["libro", "revista", "periódico", "cuaderno"],
+          "answer": "libro"
         }
       ]
     }
