@@ -24,9 +24,9 @@
       "topic": "vocabulary",
       "questions": [
         {
-          "question": "Translate 'dog' into Spanish.",
-          "options": ["perro", "gato", "pájaro", "ratón"],
-          "answer": "perro"
+          "question": "Translate 'house' into Spanish.",
+          "options": ["casa", "hogar", "edificio", "apartamento"],
+          "answer": "casa"
         }
       ]
     }
