@@ -9,14 +9,14 @@
         "topic": "grammar",
         "questions": [
           {
-            "question": "Which sentence is correct?",
+            "question": "Which sentence uses the correct verb tense?",
             "options": [
-              "She don't like ice cream.",
-              "She doesn't likes ice cream.",
-              "She doesn't like ice cream.",
-              "She don't likes ice cream."
+              "I am playing soccer tomorrow.",
+              "I was play soccer yesterday.",
+              "I have been play soccer now.",
+              "I will playing soccer tomorrow."
             ],
-            "answer": "She doesn't like ice cream."
+            "answer": "I am playing soccer tomorrow."
           },
           {
             "question": "Yesterday, I ____ to the store.",
@@ -29,9 +29,9 @@
         "topic": "vocabulary",
         "questions": [
           {
-            "question": "What is the synonym of 'happy'?",
-            "options": ["sad", "joyful", "angry", "tired"],
-            "answer": "joyful"
+            "question": "What does 'enormous' mean?",
+            "options": ["tiny", "huge", "fast", "slow"],
+            "answer": "huge"
           },
           {
             "question": "Which word means 'a large natural stream of water'?",
