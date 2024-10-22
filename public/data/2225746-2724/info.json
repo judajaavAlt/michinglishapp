@@ -1,0 +1,51 @@
+{
+  "user": {
+    "username": "blessed0314",
+    "profileImage": "https://media.licdn.com/dms/image/v2/D4E03AQHPCpS96GIT-A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1688843024911?e=1735171200&v=beta&t=7Zo7d7oJ4y6A2gEEGfWEa5uYn5ISbj-P5RMCvZa_Xq0",
+    "socialLink": "@christian-daniel-villegas"
+  },
+  "topics": [
+    {
+      "topic": "grammar",
+      "questions": [
+        {
+          "question": "What is the superlative of 'good'?",
+          "options": ["goodest", "better", "best", "most good"],
+          "answer": "best"
+        },
+        {
+          "question": "What is the superlative of 'bad'?",
+          "options": ["badder", "worst", "worse", "baddest"],
+          "answer": "worst"
+        },
+        {
+          "question": "What is the superlative of 'happy'?",
+          "options": ["happiest", "more happy", "most happy", "happier"],
+          "answer": "happiest"
+        }
+      ]
+    },
+    {
+      "topic": "vocabulary",
+      "questions": [
+        {
+          "question": "What is the antonym of 'hot'?",
+          "options": ["warm", "cold", "cool", "boiling"],
+          "answer": "cold"
+        },
+        {
+          "question": "Translate 'mouse' into Spanish.",
+          "options": ["gato", "perro", "ratón", "caballo"],
+          "answer": "ratón"
+        },
+        {
+          "question": "What is the synonym of 'fast'?",
+          "options": ["slow", "quick", "lazy", "steady"],
+          "answer": "quick"
+        }
+      ]
+    }
+  ]
+}
+
+  
