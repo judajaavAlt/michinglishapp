@@ -1,0 +1,45 @@
+{
+    "user": {
+      "username": "DanielArias",
+      "profileImage": "https://static.demilked.com/wp-content/uploads/2023/07/funny-photos-cursed-images-1.jpg",
+      "socialLink": "@DanielArias"
+    },
+    "topics": [
+      {
+        "topic": "grammar",
+        "questions": [
+          {
+            "question": "Which sentence uses the correct form of 'to be'?",
+            "options": [
+              "They is going to the park.",
+              "They are going to the park.",
+              "They am going to the park.",
+              "They be going to the park."
+            ],
+            "answer": "They are going to the park."
+          },
+          {
+            "question": "Which is the correct past form of 'teach'?",
+            "options": ["teached", "taught", "teachs", "teaching"],
+            "answer": "taught"
+          }
+        ]
+      },
+      {
+        "topic": "vocabulary",
+        "questions": [
+          {
+            "question": "What is the antonym of 'difficult'?",
+            "options": ["easy", "hard", "complex", "complicated"],
+            "answer": "easy"
+          },
+          {
+            "question": "Translate 'book' into Spanish.",
+            "options": ["libro", "mesa", "silla", "ventana"],
+            "answer": "libro"
+          }
+        ]
+      }
+    ]
+  }
+  
