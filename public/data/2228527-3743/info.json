@@ -17,6 +17,16 @@
               "The child is playing."
             ],
             "answer": "The children are playing."
+          },
+          {
+            "question": "Which of these sentences is punctuated correctly?",
+            "options": [
+              "I have apples oranges, and bananas.",
+              "I have apples, oranges and bananas.",
+              "I have, apples, oranges, and bananas.",
+              "I have apples, oranges, and bananas."
+            ],
+            "answer": "I have apples, oranges, and bananas."
           }
         ]
       },
@@ -32,9 +42,18 @@
               "confused"
             ],
             "answer": "joyful"
+          },
+          {
+            "question": "Which word is the opposite of 'frequently'?",
+            "options": [
+              "often",
+              "rarely",
+              "usually",
+              "sometimes"
+            ],
+            "answer": "rarely"
           }
         ]
       }
     ]
   }
-  
