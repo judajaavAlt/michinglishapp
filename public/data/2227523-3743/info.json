@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 {
     "user": {
       "username": "https://github.com/d1n0s4uri0",
@@ -11,14 +9,14 @@
           "topic": "grammar",
           "questions": [
             {
-              "question": "Which sentence is correct?",
-              "options": [
-                "He go to the park every day.",
-                "He goes to the park every day.",
-                "He going to the park every day.",
-                "He gone to the park every day."
-              ],
-              "answer": "He goes to the park every day."
+              "question": "Which sentence is grammatically correct?",
+          "options": [
+          "She play the piano beautifully.",
+          "She playing the piano beautifully.",
+          "She plays the piano beautifully.",
+          "She played the piano beautifully every day."
+          ],
+          "answer": "She plays the piano beautifully."
             },
             {
               "question": "What is the past tense of 'run'?",
@@ -44,4 +42,3 @@
         }
       ]
     }
->>>>>>> Stashed changes
