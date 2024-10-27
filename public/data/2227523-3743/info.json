@@ -20,9 +20,9 @@
           "answer": "She plays the piano beautifully."
             },
             {
-              "question": "What is the past tense of 'run'?",
-              "options": ["running", "runned", "ran", "runs"],
-              "answer": "ran"
+              "question": "What is the past tense of 'walk'?",
+              "options": ["walk", "walking", "walked", "walks"],
+              "answer": "walked"
             }
           ]
         },
