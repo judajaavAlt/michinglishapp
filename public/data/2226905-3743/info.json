@@ -17,6 +17,16 @@
                 "The dogs tail is wagging."
             ],
             "answer": "The dog's tail is wagging."
+            },
+            {
+            "question": "Identify the sentence that uses the correct form of 'there', 'their', or 'they're'.",
+            "options": [
+                "They're going to the park tomorrow.",
+                "Their going to the park tomorrow.",
+                "There going to the park tomorrow.",
+                "There're going to the park tomorrow."
+            ],
+            "answer": "They're going to the park tomorrow."
             }
         ]
         },
@@ -32,6 +42,16 @@
                 "annoyed"
             ],
             "answer": "amazed"
+            },
+            {
+            "question": "Choose the synonym for 'generous'.",
+            "options": [
+                "stingy",
+                "selfish",
+                "kind-hearted",
+                "greedy"
+            ],
+            "answer": "kind-hearted"
             }
         ]
         }
