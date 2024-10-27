@@ -9,14 +9,14 @@
         "topic": "grammar",
         "questions": [
           {
-            "question": "Which sentence uses the correct form of 'to be'?",
+            "question": "Which sentence uses the correct form of 'to have'?",
             "options": [
-              "They is going to the park.",
-              "They are going to the park.",
-              "They am going to the park.",
-              "They be going to the park."
+              "She have a book.",
+              "She has a book.",
+              "She haves a book.",
+              "She had a book."
             ],
-            "answer": "They are going to the park."
+            "answer": "She has a book."
           },
           {
             "question": "Which is the correct past form of 'teach'?",
@@ -29,14 +29,14 @@
         "topic": "vocabulary",
         "questions": [
           {
-            "question": "What is the antonym of 'difficult'?",
-            "options": ["easy", "hard", "complex", "complicated"],
-            "answer": "easy"
+            "question": "What is the antonym of 'large'?",
+            "options": ["small", "little", "minimun", "complicated"],
+            "answer": "small"
           },
           {
-            "question": "Translate 'book' into Spanish.",
+            "question": "Translate 'chair' into Spanish.",
             "options": ["libro", "mesa", "silla", "ventana"],
-            "answer": "libro"
+            "answer": "silla"
           }
         ]
       }

@@ -29,9 +29,9 @@
             "answer": "sad"
           },
           {
-            "question": "Translate 'cat' into Spanish.",
+            "question": "Translate 'horse' into Spanish.",
             "options": ["gato", "perro", "ratón", "caballo"],
-            "answer": "gato"
+            "answer": "caballo"
           }
         ]
       }

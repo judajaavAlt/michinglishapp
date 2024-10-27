@@ -29,9 +29,9 @@
       "topic": "vocabulary",
       "questions": [
         {
-          "question": "What is the antonym of 'hot'?",
-          "options": ["warm", "cold", "cool", "boiling"],
-          "answer": "cold"
+          "question": "What is the antonym of 'bad'?",
+          "options": ["good", "worse", "ugly", "sad"],
+          "answer": "good"
         },
         {
           "question": "Translate 'mouse' into Spanish.",
