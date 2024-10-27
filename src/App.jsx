@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useDispatch } from "react-redux";
 import { setData, setLoading, setError } from "./store/data";
-
+import { shuffleArray } from "./helpers/shuffleArray";
 import QuizCard from './components/quizcard'
 
 
@@ -10,18 +10,19 @@ const fetchData = async (dispatch) => {
     dispatch(setLoading(true));
 
 
-    const indexResponse = await fetch('/data/index.json');
+    const indexResponse = await fetch(`${import.meta.env.BASE_URL}data/index.json`);
     const indexData = await indexResponse.json();
     const { folders } = indexData; 
 
  
     const promises = folders.map(folder =>
-      fetch(`/data/${folder}/info.json`).then(res => res.json())
+      fetch(`${import.meta.env.BASE_URL}data/${folder}/info.json`).then(res => res.json())
     );
 
     const results = await Promise.all(promises);
 
-    dispatch(setData(results));
+    const shuffledResults = shuffleArray(results);
+    dispatch(setData(shuffledResults));
   } catch (error) {
     dispatch(setError(error.toString()));
   } finally {
