@@ -1,7 +1,7 @@
 {
     "user": {
       "username": "AndresHenao",
-      "profileImage": "https://scontent.fbog11-1.fna.fbcdn.net/v/t39.30808-6/441961417_3711117722473380_1985616320449849319_n.jpg?stp=dst-jpg_tt6&_nc_cat=106&cb=99be929b-6bbdfb60&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGKXKERvmQXVZVTNKlo0nQ8UuzrajW4MnZS7OtqNbgydpJG9AnkgQPkY-YeUdZjygGoYlUEU8GCY0h2Z3gIzS9k&_nc_ohc=rRtLJmmGEg0Q7kNvgHeoj8U&_nc_zt=23&_nc_ht=scontent.fbog11-1.fna&_nc_gid=Akv7OOKzjnvANTg-JPqx943&oh=00_AYCcxh8YvVT5z6YCPUTv7jgPkR2KEjZugVruu_RWyyRLug&oe=671CD4D4",
+      "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocIQkZg7OZIFQzfBbdBXMrtKhLQKlb9XCx8mgKvnCNZBjV8BRUQ=s83-c-mo",
       "socialLink": "@henao_hac"
     },
     "topics": [
@@ -9,19 +9,19 @@
         "topic": "grammar",
         "questions": [
           {
-            "question": "whic of this are verbs",
+            "question": "Which of these is a verb",
             "options": ["name", "my", "run", "hello"],
             "answer": "run"
           },
           {
             "question": "Which sentence is not correct",
             "options": [
-              "She speaks english",
-              "i like to drink coffe.",
-              "im practicing swimming.",
-              "i doesnt like apples."
+              "She speaks english.",
+              "I like to drink coffe.",
+              "I'm practicing swimming.",
+              "I does'nt like apples."
             ],
-            "answer": "i doesnt like apples."
+            "answer": "i does'nt like apples."
           }
         ]
       },
@@ -29,7 +29,7 @@
         "topic": "vocabulary",
         "questions": [
           {
-            "question": "How do you say caballo in english?",
+            "question": "How do you say 'caballo' in english?",
             "options": ["horse", "chicken", "rat", "frog"],
             "answer": "horse"
           },

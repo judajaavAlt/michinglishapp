@@ -9,9 +9,9 @@
       "topic": "grammar",
       "questions": [
         {
-          "question": "What is the past of run'?",
-          "options": ["run", "ran", "runs", "ron"],
-          "answer": "ran"
+          "question": "What is the past of 'see''?",
+          "options": ["sew", "seed", "saw", "sea"],
+          "answer": "saw"
         },
         {
           "question": "Which sentence is not correct?",
