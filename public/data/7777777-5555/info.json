@@ -15,7 +15,7 @@
         },
         {
           "question": "Which is the correct form?",
-          "options": ["She has been","She have been","She was been","She were been"],
+          "options": ["She has been", "She have been", "She was been", "She were been"],
           "answer": "She has been"
         }
       ]
