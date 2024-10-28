@@ -9,19 +9,14 @@
           "topic": "grammar",
           "questions": [
             {
-              "question": "Which sentence is correct?",
-              "options": [
-                "He go to the park every day.",
-                "He goes to the park every day.",
-                "He going to the park every day.",
-                "He gone to the park every day."
-              ],
-              "answer": "He goes to the park every day."
+              "question": "What is the continous tense version of 'work'",
+              "options": ["works", "worked", "working", "wark"],
+              "answer": "working"
             },
             {
-              "question": "What is the past tense of 'eat'?",
-              "options": ["eated", "ate", "eats", "eating"],
-              "answer": "ate"
+              "question": "What is the past tense of 'be'?",
+              "options": ["was", "been", "bees", "being"],
+              "answer": "was"
             }
           ]
         },
@@ -29,14 +24,14 @@
           "topic": "vocabulary",
           "questions": [
             {
-              "question": "What is an antonym of 'difficult'?",
-              "options": ["hard", "challenging", "easy", "complicated"],
-              "answer": "easy"
+              "question": "What is an antonym of 'Perfect'?",
+              "options": ["awful", "beautiful", "easy", "complicated"],
+              "answer": "awful"
             },
             {
-              "question": "What does the word 'benevolent' mean?",
-              "options": ["kind and generous", "angry", "selfish", "lazy"],
-              "answer": "kind and generous"
+              "question": "What does the word 'inevitable' mean?",
+              "options": ["unavoidable", "uncertain", "optional", "forgettable"],
+              "answer": "unavoidable"
             }
           ]
         }
