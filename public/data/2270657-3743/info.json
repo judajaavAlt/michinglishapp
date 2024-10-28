@@ -34,9 +34,9 @@
           "answer": "cold"
         },
         {
-          "question": "Translate 'dog' into French.",
-          "options": ["chat", "cheval", "chien", "poisson"],
-          "answer": "chien"
+          "question": "Which word is a synonym for 'quick'?",
+          "options": ["slow", "rapid", "quiet", "happy"],
+          "answer": "rapid"
         }
       ]
     }
