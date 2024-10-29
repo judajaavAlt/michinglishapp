@@ -1,0 +1,69 @@
+{
+  "user": {
+    "username": "ympr-utente",
+    "profileImage": "https://avatars.githubusercontent.com/u/143147949?v=4",
+    "socialLink": "@ympr-utente"
+  },
+  "topics": [
+    {
+      "topic": "grammar",
+      "questions": [
+        {
+          "question": "What is the plural form of 'cactus'?",
+          "options": ["cactuses", "cacti", "cactus", "cactuseses"],
+          "answer": "cacti"
+        },
+        {
+          "question": "Which sentence is grammatically correct?",
+          "options": [
+            "He don't knows the answer.",
+            "He doesn't knows the answer.",
+            "He doesn't know the answer.",
+            "He not know the answer."
+          ],
+          "answer": "He doesn't know the answer."
+        }
+      ]
+    },
+    {
+      "topic": "vocabulary",
+      "questions": [
+        {
+          "question": "What is a synonym for 'angry'?",
+          "options": ["calm", "furious", "sleepy", "joyful"],
+          "answer": "furious"
+        },
+        {
+          "question": "Translate 'house' into French.",
+          "options": ["maison", "casita", "casa", "haus"],
+          "answer": "maison"
+        }
+      ]
+    },
+    {
+      "topic": "idioms",
+      "questions": [
+        {
+          "question": "What does the idiom 'break the ice' mean?",
+          "options": [
+            "Start a conversation in a social setting",
+            "Literally breaking ice",
+            "Getting angry",
+            "Eating ice cream"
+          ],
+          "answer": "Start a conversation in a social setting"
+        },
+        {
+          "question": "Which idiom means 'to give up'?",
+          "options": [
+            "Throw in the towel",
+            "Hit the sack",
+            "Break a leg",
+            "Bite the bullet"
+          ],
+          "answer": "Throw in the towel"
+        }
+      ]
+    }
+  ]
+}
