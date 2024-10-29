@@ -6,7 +6,7 @@
     },
     "topics": [
       {
-        "topic": "transportation",
+        "topic": "Grammar",
         "questions": [
           {
             "question": "Where would you board a plane?",
@@ -26,22 +26,17 @@
         ]
       },
       {
-        "topic": "daily routines",
+        "topic": "vocabulary",
         "questions": [
           {
-            "question": "What do you do first thing in the morning?",
-            "options": ["Brush your teeth", "Have lunch", "Go to bed", "Watch TV"],
-            "answer": "Brush your teeth"
+            "question": "What is the synonym of 'smart'?",
+            "options": ["dull", "intelligent", "slow", "ignorant"],
+            "answer": "intelligent"
           },
           {
-            "question": "What do you usually do at night?",
-            "options": ["Have breakfast", "Go to sleep", "Go to work", "Go for a run"],
-            "answer": "Go to sleep"
-          },
-          {
-            "question": "What do you do before going to bed?",
-            "options": ["Have dinner", "Brush your teeth", "Go to work", "Have breakfast"],
-            "answer": "Brush your teeth"
+            "question": "Translate 'car' into Spanish.",
+            "options": ["coche", "bicicleta", "avión", "barco"],
+            "answer": "coche"
           }
         ]
       }

@@ -6,7 +6,7 @@
   },
   "topics": [
     {
-      "topic": "locations and common places",
+      "topic": "Grammar",
       "questions": [
         {
           "question": "Where would you find a librarian?",
@@ -26,22 +26,22 @@
       ]
     },
     {
-      "topic": "telling time or expressing time",
+      "topic": "vocabulary",
       "questions": [
         {
-          "question": "What time is it when the clock shows 3:15 PM?",
-          "options": ["It's a quarter past three.", "It's three fifteen.", "It's three and a quarter.", "It's half past three."],
-          "answer": "It's a quarter past three."
+          "question": "What is the synonym of 'quick'?",
+          "options": ["slow", "fast", "lazy", "steady"],
+          "answer": "fast"
         },
         {
-          "question": "How do you say 7:30 in the morning?",
-          "options": ["Seven thirty PM", "Half past seven in the morning", "Seven thirty in the afternoon", "Half past seven in the evening"] ,
-          "answer": "Half past seven in the morning"
+          "question": "Translate 'bear' into Spanish.",
+          "options": ["oso", "perro", "gato", "ratón"],
+          "answer": "oso"
         },
         {
-          "question": "If someone says 'I'll meet you at noon,' what time is that?",
-          "options": ["12:00 AM", "12:00 PM", "6:00 AM", "6:00 PM"] ,
-          "answer": "12:00 PM"
+          "question": "What is the antonym of 'old'?",
+          "options": ["young", "ancient", "new", "modern"],
+          "answer": "new"
         }
       ]
     }
