@@ -1,0 +1,45 @@
+{
+    "user": {
+      "username": "DanielArias",
+      "profileImage": "https://static.demilked.com/wp-content/uploads/2023/07/funny-photos-cursed-images-1.jpg",
+      "socialLink": "@DanielArias"
+    },
+    "topics": [
+      {
+        "topic": "grammar",
+        "questions": [
+          {
+            "question": "Which sentence uses the correct form of 'to have'?",
+            "options": [
+              "She have a book.",
+              "She has a book.",
+              "She haves a book.",
+              "She had a book."
+            ],
+            "answer": "She has a book."
+          },
+          {
+            "question": "Which is the correct past form of 'teach'?",
+            "options": ["teached", "taught", "teachs", "teaching"],
+            "answer": "taught"
+          }
+        ]
+      },
+      {
+        "topic": "vocabulary",
+        "questions": [
+          {
+            "question": "What is the antonym of 'large'?",
+            "options": ["small", "little", "minimun", "complicated"],
+            "answer": "small"
+          },
+          {
+            "question": "Translate 'chair' into Spanish.",
+            "options": ["libro", "mesa", "silla", "ventana"],
+            "answer": "silla"
+          }
+        ]
+      }
+    ]
+  }
+  

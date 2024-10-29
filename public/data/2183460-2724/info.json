@@ -1,0 +1,43 @@
+{
+    "user": {
+      "username": "MargaritaGrisales",
+      "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocKiKrk7ol_1KJUXz3T8MWLE0_PXss9KlDjQiquH3mPp2vbYKmyZ=s288-c-no",
+      "socialLink": "@margaritagrisales"
+    },
+    
+    "topics": [
+      {
+        "topic": "grammar",
+      "questions": [
+        {
+          "question": "What is the correct form of 'to be' in the past for 'I'?",
+          "options": ["am", "was", "were", "is"],
+          "answer": "was"
+        },
+        {
+          "question": "Choose the correct preposition: 'She is interested ___ learning French.'",
+          "options": ["on", "in", "at", "for"],
+          "answer": "in"
+          }
+        ]
+      },
+      {
+        "topic": "vocabulary",
+      "questions": [
+        {
+          "question": "What does 'benevolent' mean?",
+          "options": ["unkind", "generous", "selfish", "suspicious"],
+          "answer": "generous"
+        },
+        {
+          "question": "Which word means 'the act of gathering together'?",
+          "options": ["collection", "dispersal", "scattering", "separation"],
+          "answer": "collection"
+          
+          
+  
+          }
+        ]
+      }
+    ]
+}
