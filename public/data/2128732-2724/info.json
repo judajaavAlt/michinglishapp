@@ -1,0 +1,44 @@
+{
+    "user": {
+      "username": "zaira-navia",
+      "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocIX55L8QIoQkrv9FQCFbLIB8GsiyO8okefMwJ0My8Slgzc9tNbh=s96-c-rg-br100",
+      "socialLink": "@adz33"
+    },
+    "topics": [
+      {
+        "topic": "Grammar",
+        "questions": [
+          {
+            "question": "Where would you board a plane?",
+            "options": ["at the airport", "in the airport", "on the airport", "the airport"],
+            "answer": "at the airport"
+          },
+          {
+            "question": "Where do you catch a train?",
+            "options": ["at the train station", "in the train station", "on the train station", "the train station"],
+            "answer": "at the train station"
+          },
+          {
+            "question": "Where would you find a taxi?",
+            "options": ["at the taxi stand", "in the taxi stand", "on the taxi stand", "the taxi stand"],
+            "answer": "at the taxi stand"
+          }
+        ]
+      },
+      {
+        "topic": "vocabulary",
+        "questions": [
+          {
+            "question": "What is the synonym of 'smart'?",
+            "options": ["dull", "intelligent", "slow", "ignorant"],
+            "answer": "intelligent"
+          },
+          {
+            "question": "Translate 'car' into Spanish.",
+            "options": ["coche", "bicicleta", "avión", "barco"],
+            "answer": "coche"
+          }
+        ]
+      }
+    ]
+  }
