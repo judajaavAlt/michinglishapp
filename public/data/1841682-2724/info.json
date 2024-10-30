@@ -1,0 +1,60 @@
+{
+    "user": {
+      "username": "gary-trujillo",
+      "profileImage": "https://www.univalle.edu.co/media/k2/items/cache/9845d3c220e6e5674241ce626189d694_M.jpg",
+      "socialLink": "@gary-trujillo"
+    },
+    "topics": [
+      {
+        "topic": "grammar",
+        "questions": [
+          {
+            "question": "Which sentence uses the subjunctive mood correctly?",
+            "options": [
+              "If I was you, I would apologize.",
+              "If I were you, I would apologize.",
+              "If I am you, I will apologize.",
+              "If I would be you, I would apologize."
+            ],
+            "answer": "If I were you, I would apologize."
+          },
+          {
+            "question": "Choose the sentence with the correct usage of a relative pronoun.",
+            "options": [
+              "This is the book whom I told you about.",
+              "This is the book who I told you about.",
+              "This is the book that I told you about.",
+              "This is the book which I told you about."
+            ],
+            "answer": "This is the book that I told you about."
+          }
+        ]
+      },
+      {
+        "topic": "vocabulary",
+        "questions": [
+          {
+            "question": "What is the antonym of 'obfuscate'?",
+            "options": ["clarify", "complicate", "confuse", "mislead"],
+            "answer": "clarify"
+          },
+          {
+            "question": "Which word means 'a feeling of fear or agitation about something that may happen'?",
+            "options": ["trepidation", "elation", "contentment", "apathy"],
+            "answer": "trepidation"
+          },
+          {
+            "question": "What is the meaning of the word 'ubiquitous'?",
+            "options": ["rare", "everywhere", "difficult", "uncommon"],
+            "answer": "everywhere"
+          },
+          {
+            "question": "Choose the correct synonym for 'ephemeral'.",
+            "options": ["lasting", "fleeting", "permanent", "enduring"],
+            "answer": "fleeting"
+          }
+        ]
+      }
+    ]
+  }
+  
