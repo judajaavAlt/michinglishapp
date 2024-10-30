@@ -1,8 +1,8 @@
 {
   "user": {
-    "username": "Laura Leal",
+    "socialLink": "Laura Leal",
     "profileImage": "https://i.pinimg.com/enabled_lo/564x/b7/88/8b/b7888b1147847c8ced7e6efe32688512.jpg",
-    "socialLink": "@minambientecol"
+    "username": "@minambientecol"
   },
   "topics": [
     {
@@ -19,7 +19,7 @@
           "answer": "All Might is the strongest hero."
         },
         {
-          "question": "Which sentence is correct?",
+          "question": "Which sentence is correctly written?",
           "options": [
             "Deku doesn't wants to be a hero.",
             "Deku don't want to be a hero.",
