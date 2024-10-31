@@ -29,9 +29,9 @@
             "answer": "simple "
           },
           {
-            "question": "Which word is a synonym for 'quick'?",
-            "options": ["slow", "fast", "lazy", "weak"],
-            "answer": "fast"
+            "question": "Which word is a synonym for 'slow'?",
+            "options": ["fast", "lethargic", "quick", "energetic"],
+            "answer": "lethargic"
           }
         ]
       }
