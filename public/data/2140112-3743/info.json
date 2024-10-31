@@ -1,0 +1,49 @@
+{
+  "user": {
+    "username": "ulvenforst",
+    "profileImage": "https://i.postimg.cc/J7QbsKdq/JCNarvaez.jpg4",
+    "socialLink": "@ulvenforst"
+  },
+  "topics": [
+    {
+      "topic": "grammar",
+      "questions": [
+        {
+          "question": "Which of the following sentences uses the subjunctive mood correctly?",
+          "options": [
+            "If I was you, I would study harder.",
+            "If I were you, I would study harder.",
+            "If I am you, I would study harder.",
+            "If I will be you, I would study harder."
+          ],
+          "answer": "If I were you, I would study harder."
+        },
+        {
+          "question": "Identify the sentence that uses a reduced relative clause correctly.",
+          "options": [
+            "The man who is standing by the door is my brother.",
+            "The man standing by the door is my brother.",
+            "The man by the door he is my brother.",
+            "The man stands by the door is my brother."
+          ],
+          "answer": "The man standing by the door is my brother."
+        }
+      ]
+    },
+    {
+      "topic": "vocabulary",
+      "questions": [
+        {
+          "question": "What is the meaning of the word 'ephemeral'?",
+          "options": ["lasting for a very short time", "timeless", "difficult to understand", "repetitive"],
+          "answer": "lasting for a very short time"
+        },
+        {
+          "question": "Which of the following is a synonym for 'parsimonious'?",
+          "options": ["generous", "frugal", "lavish", "extravagant"],
+          "answer": "frugal"
+        }
+      ]
+    }
+  ]
+}
