@@ -1,8 +1,8 @@
 {
     "user": {
-      "username": "@MiguelTami",
+      "username": "Miguel Tami",
       "profileImage": "https://i.pinimg.com/564x/eb/92/b1/eb92b18f1a089185c65db772559f5e52.jpg",
-      "socialLink": "Miguel Tami"
+      "socialLink": "@MiguelTami"
     },
     "topics": [
       {
@@ -29,9 +29,9 @@
             "answer": "simple "
           },
           {
-            "question": "Which word is a synonym for 'quick'?",
-            "options": ["slow", "fast", "lazy", "weak"],
-            "answer": "fast"
+            "question": "Which word is a synonym for 'slow'?",
+            "options": ["fast", "lethargic", "quick", "energetic"],
+            "answer": "lethargic"
           }
         ]
       }
